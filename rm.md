@@ -231,7 +231,7 @@ current_focus:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5D4&labelColor=0D1117)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117)](https://github.com/Raj_Raaz)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117)](https://github.com/Raj-Raaz)
 
 > *"Building models that not only predict, but explain."*
 
