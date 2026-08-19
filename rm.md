@@ -233,6 +233,10 @@ current_focus:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5D4&labelColor=0D1117)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117)](https://github.com/Raj-Raaz)
 
+<a href="https://github.com/Raj-Raaz">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117" alt="GitHub">
+</a>
+
 > *"Building models that not only predict, but explain."*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
